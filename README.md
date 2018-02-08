@@ -9,8 +9,8 @@ Logs Analysis Tool is a course related project in Udacity's nanodegree. The Tool
 **3. On which days did more than 1% of requests lead to errors?**
 
 The program is structured into 2 main pieces:
-####1.Three functions, each solves one of the 3 questions.
-####2.main function, which interacts with the user and asks for certain input.
+- 1.Three functions, each solves one of the 3 questions.
+- 2.main function, which interacts with the user and asks for certain input.
 
 
 # Installation:
